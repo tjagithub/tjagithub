@@ -29,5 +29,3 @@ with a passion for documentation.
     .PreferredSpacing { "2 Spaces" }
   };
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=tjagithub&show_icons=true&layout=compact" alt="tjagithub" />
