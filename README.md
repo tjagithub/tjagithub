@@ -1,9 +1,5 @@
 # Hi, I'm TJ
 
-Currently a employeed as a Software Tester
-that is also interested in software developement,
-with a passion for documentation.
-
 ## Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,swift,lua,java,go" />
